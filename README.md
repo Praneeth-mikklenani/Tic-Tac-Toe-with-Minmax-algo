@@ -25,4 +25,4 @@ play against a computer opponent.
 4. Select a game mode and start playing.
 
 ## GitHub Repository
-[https://github.com/Praneeth-mikklenani/Tic-Tac-Toe-with-Minmax-algo](url)
+[View Project on GitHub](https://github.com/Praneeth-mikklenani/Tic-Tac-Toe-with-Minmax-algo)
